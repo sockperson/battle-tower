@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Penny",
+        "team": [
+            { "species": "Eevee", "weight": 1 },
+            { "species": "Vaporeon", "weight": 4 },
+            { "species": "Jolteon", "weight": 4 },
+            { "species": "Flareon", "weight": 4 },
+            { "species": "Espeon", "weight": 3 },
+            { "species": "Umbreon", "weight": 4 },
+            { "species": "Leafeon", "weight": 4 },
+            { "species": "Glaceon", "weight": 3 },
+            { "species": "Sylveon", "weight": 6 }
+        ]
+    },
+    {
+        "name": "Red",
+        "team": [
+            { "species": "Pikachu", "weight": 2 },
+            { "species": "Venusaur", "weight": 4 },
+            { "species": "Charizard", "weight": 4 },
+            { "species": "Blastoise", "weight": 4 },
+            { "species": "Snorlax", "weight": 4 },
+            { "species": "Dragonite", "weight": 4 }
+        ]
+    },
+    {
+        "name": "Cynthia",
+        "team": [
+            { "species": "Spiritomb", "weight": 5 },
+            { "species": "Gastrodon", "weight": 4 },
+            { "species": "Garchomp", "weight": 7 },
+            { "species": "Milotic", "weight": 5 },
+            { "species": "Braviary", "weight": 4 },
+            { "species": "Lucario", "weight": 5 },
+            { "species": "Glaceon", "weight": 4 },
+            { "species": "Porygon-Z", "weight": 4 }
+        ]
+    },
+    {
+        "name": "Lacey",
+        "team": [
+            { "species": "Granbull", "weight": 4 },
+            { "species": "Whimsicott", "weight": 4 },
+            { "species": "Slowbro-Galar", "weight": 4 },
+            { "species": "Primarina", "weight": 4 },
+            { "species": "Alcremie", "weight": 4 },
+            { "species": "Excadrill", "weight": 4 }
+        ]
+    }
+]

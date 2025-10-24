@@ -1,0 +1,27 @@
+{
+  "name": "battle-tower",
+  "version": "1.0.0",
+  "description": "Minimal Node.js project that demonstrates loading the `pokemon-showdown` library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node example-usage.js",
+    "prestart": "node ./scripts/free-port.js",
+    "start": "node sim.js",
+    "start:server": "node sim/sim.js",
+    "start:ui": "npm --prefix ui run dev",
+    "dev": "concurrently --names \"server,ui\" -c \"bgBlue.bold,bgGreen.bold\" \"npm:start:server\" \"npm:start:ui\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pokemon-showdown": "^0.11.10",
+    "ws": "^8.18.3"
+  }
+  ,
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}

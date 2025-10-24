@@ -1,0 +1,956 @@
+[
+    {
+        "species": "placeholder",
+        "sets": [
+            {
+                "id": 0,
+                "role": "",
+                "ability": "",
+                "item": "",
+                "moves": ["", "", "", ""],
+                "spread": ""
+            }
+        ]
+    },
+    {
+        "species": "Venusaur",
+        "sets": [
+            {
+                "id": 0,
+                "role": "SubSeed",
+                "ability": "Chlorophyll",
+                "item": "Leftovers",
+                "moves": ["Sludge Bomb", "Sleep Powder", "Substitute", "Leech Seed"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Charizard",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Blaze",
+                "item": "Choice Specs",
+                "moves": ["Flamethrower", "Overheat", "Hurricane", "Scorching Sands"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Blastoise",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Torrent",
+                "item": "White Herb",
+                "moves": ["Hydro Pump, Surf", "Ice Beam", "Earthquake", "Shell Smash"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Arbok",
+        "sets": [
+            {
+                "id": 0,
+                "role": "",
+                "ability": "",
+                "item": "",
+                "moves": ["", "", "", ""],
+                "spread": ""
+            }
+        ]
+    },
+    {
+        "species": "Pikachu",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Lightning Rod",
+                "item": "Light Ball",
+                "moves": ["Volt Tackle", "Knock Off", "Play Rough", "Surf"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Raichu",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Lightning Rod",
+                "item": "Life Orb",
+                "moves": ["Thunderbolt", "Surf", "Grass Knot", "Nasty Plot"],
+                "spread": "SC"
+            },
+            {
+                "id": 1,
+                "role": "Fast Support",
+                "ability": "Lightning Rod",
+                "item": "Assault Vest",
+                "moves": ["Thunderbolt", "Surf", "Knock Off", "Nuzzle"],
+                "spread": "SC"
+            }
+
+        ]
+    },
+    {
+        "species": "Sandslash",
+        "sets": [
+            {
+                "id": 0,
+                "role": "",
+                "ability": "",
+                "item": "",
+                "moves": ["", "", "", ""],
+                "spread": ""
+            }
+        ]
+    },
+    {
+        "species": "Clefable",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Unaware",
+                "item": "Leftovers, Rocky Helmet",
+                "moves": ["Moonblast", "Thunder Wave", "Calm Mind", "Moonlight"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Ninetales",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Drought",
+                "item": "Life Orb",
+                "moves": ["Flamethrower, Fire Blast", "Solar Beam", "Scorching Sands", "Nasty Plot"],
+                "spread": "SC"
+            }
+        ]
+    },
+    {
+        "species": "Ninetales-Alola",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Support",
+                "ability": "Snow Warning",
+                "item": "Light Clay",
+                "moves": ["Blizzard", "Moonblast", "Freeze-Dry", "Aurora Veil"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Wigglytuff",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "Competitive",
+                "item": "Leftovers",
+                "moves": ["Alluring Voice", "Knock Off", "Thunder Wave", "Stealth Rock"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Vileplume",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "Effect Spore",
+                "item": "(2,1) Rocky Helmet, Leftovers",
+                "moves": ["Sludge Bomb", "Leech Seed", "Strength Sap", "Giga Drain, Sleep Powder"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Venomoth",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Tinted Lens",
+                "item": "Leftovers",
+                "moves": ["Sludge Wave", "Bug Buzz", "Quiver Dance", "Sleep Powder"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Dugtrio",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Arena Trap",
+                "item": "Choice Band",
+                "moves": ["Earthquake", "Stone Edge", "Throat Chop", "Sucker Punch"],
+                "spread": "SA"
+            }
+        ]
+    },
+    {
+        "species": "Dugtrio-Alola",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Tangling Hair",
+                "item": "Choice Band",
+                "moves": ["Earthquake", "Iron Head", "Stone Edge", "Sucker Punch"],
+                "spread": "SA"
+            },
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Tangling Hair",
+                "item": "Life Orb",
+                "moves": ["Earthquake", "Iron Head", "Stone Edge, Sucker Punch", "Swords Dance"],
+                "spread": "SA"
+            }
+        ]
+    },
+    {
+        "species": "Slowbro-Galar",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Regenerator",
+                "item": "Assault Vest",
+                "moves": ["Psychic", "Shell Side Arm", "Ice Beam", "Flamethrower"],
+                "spread": "HC"
+            }
+        ]
+    },
+    {
+        "species": "Eevee",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Attacker",
+                "ability": "Adaptability",
+                "item": "Eviolite",
+                "moves": ["Double-Edge", "Quick Attack", "Bite", "Yawn"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Vaporeon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Water Absorb",
+                "item": "Leftovers",
+                "moves": ["Scald", "Calm Mind", "Wish", "Protect"],
+                "spread": "HB"
+            },
+            {
+                "id": 1,
+                "role": "Wall",
+                "ability": "Water Absorb",
+                "item": "Leftovers",
+                "moves": ["Scald", "Flip Turn", "Wish", "Protect"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Jolteon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Volt Absorb",
+                "item": "Choice Specs",
+                "moves": ["Thunderbolt", "Volt Switch", "Alluring Voice", "Shadow Ball"],
+                "spread": "CS"
+            },
+            {
+                "id": 1,
+                "role": "Setup Sweeper",
+                "ability": "Volt Absorb",
+                "item": "Life Orb",
+                "moves": ["Thunderbolt", "Alluring Voice", "Shadow Ball", "Calm Mind"],
+                "spread": "SC"
+            }
+        ]
+    },
+    {
+        "species": "Flareon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Attacker",
+                "ability": "Guts",
+                "item": "Toxic Orb",
+                "moves": ["Flare Blitz", "Facade", "Trailblaze", "Quick attack"],
+                "spread": "AS"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Attacker",
+                "ability": "Flash Fire",
+                "item": "Assault Vest",
+                "moves": ["Flare Blitz", "Double-Edge", "Trailblaze", "Quick attack"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Snorlax",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Thick Fat",
+                "item": "Leftovers",
+                "moves": ["Body Slam", "Curse", "Rest", "Sleep Talk"],
+                "spread": "HD"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Attacker",
+                "ability": "Thick Fat",
+                "item": "Assault Vest",
+                "moves": ["Double-Edge", "Earthquake", "Crunch", "Heavy Slam"],
+                "spread": "HA"
+            },
+            {
+                "id": 2,
+                "role": "Bulky Setup",
+                "ability": "Thick Fat",
+                "item": "Chesto Berry",
+                "moves": ["Double-Edge", "Earthquake", "Curse", "Rest"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Dragonite",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Multiscale",
+                "item": "Choice Band",
+                "moves": ["Outrage", "Earthquake", "Extreme Speed", "Low Kick"],
+                "spread": "AS"
+            },
+            {
+                "id": 1,
+                "role": "Setup Sweeper",
+                "ability": "Multiscale",
+                "item": "Lum Berry, Heavy-Duty Boots, Leftovers, Rocky Helmet",
+                "moves": ["Earthquake", "Extreme Speed", "Dragon Dance", "Encore, Roost"],
+                "spread": "AS"
+            },
+            {
+                "id": 2,
+                "role": "Setup Sweeper",
+                "ability": "Multiscale",
+                "item": "Loaded Dice",
+                "moves": ["Scale Shot", "Earthquake", "Dragon Dance", "Encore"],
+                "spread": "AS"
+            },
+            {
+                "id": 3,
+                "role": "Bulky Attacker",
+                "ability": "Multiscale",
+                "item": "Leftovers, Rocky Helmet",
+                "moves": ["Earthquake", "Extreme Speed", "Dragon Tail", "Roost"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Espeon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Magic Bounce",
+                "item": "(1,1) Choice Specs, Life Orb",
+                "moves": ["Psyshock, Psychic", "Alluring Voice", "Shadow Ball", "Trick"],
+                "spread": "CS"
+            },
+            {
+                "id": 1,
+                "role": "Fast Setup",
+                "ability": "Magic Bounce",
+                "item": "(2,2,1) Kee Berry, Leftovers, Covert Cloak",
+                "moves": ["Stored Power, Psyshock", "Alluring Voice", "Calm Mind", "Morning Sun"],
+                "spread": "HS"
+            },
+            {
+                "id": 2,
+                "role": "Dual Screens",
+                "ability": "Magic Bounce",
+                "item": "Light Clay",
+                "moves": ["Psychic, Psyshock", "(2,1,1) Yawn, Alluring Voice, Roar", "Reflect", "Light Screen"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Umbreon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "(3,1) Inner Focus, Synchronize",
+                "item": "Leftovers",
+                "moves": ["Foul Play", "(3,1) Toxic, Yawn", "Wish", "Protect"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Granbull",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "Intimidate",
+                "item": "Leftovers",
+                "moves": ["Play Rough", "Earthquake", "Thunder Wave", "Roar, Encore"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Smeargle",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "Moody",
+                "item": "Focus Sash",
+                "moves": ["Ceaseless Edge", "Spore", "Stealth Rock", "Sticky Web"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Suicune",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Pressure",
+                "item": "Leftovers",
+                "moves": ["Scald", "Calm Mind", "Substitute", "Protect"],
+                "spread": "HS"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Setup",
+                "ability": "Pressure",
+                "item": "Leftovers",
+                "moves": ["Scald", "Ice Beam", "Substitute", "Calm Mind"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Milotic",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "Competitive",
+                "item": "Leftovers",
+                "moves": ["Scald", "Ice Beam, Hypnosis", "Recover", "Haze, Dragon Tail"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Gastrodon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "Storm Drain",
+                "item": "Leftovers",
+                "moves": ["Earth Power", "Recover", "Sludge Bomb, Ice Beam, Yawn", "Stealth Rock"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Spiritomb",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "Infiltrator",
+                "item": "Leftovers",
+                "moves": ["Foul Play", "Poltergeist", "Will-O-Wisp, Toxic", "Pain Split, Sucker Punch, Shadow Sneak"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Garchomp",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Rough Skin",
+                "item": "Choice Band",
+                "moves": ["Earthquake", "Outrage", "Stone Edge", "Fire Fang"],
+                "spread": "AS"
+            },
+            {
+                "id": 1,
+                "role": "Support",
+                "ability": "Rough Skin",
+                "item": "Rocky Helmet, Leftovers, Sitrus Berry",
+                "moves": ["Earthquake", "Dragon Tail", "Spikes", "Stealth Rock"],
+                "spread": "HB"
+            },
+            {
+                "id": 2,
+                "role": "Setup Sweeper",
+                "ability": "Rough Skin",
+                "item": "Loaded Dice",
+                "moves": ["Earthquake", "Scale Shot", "Fire Fang, Substitute", "Swords Dance"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Lucario",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Justified",
+                "item": "Life Orb",
+                "moves": ["Close Combat", "Meteor Mash", "Extreme Speed", "Swords Dance"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Leafeon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "Chlorophyll",
+                "item": "Rocky Helmet",
+                "moves": ["Leaf Blade", "Knock Off", "Leech Seed", "Synthesis"],
+                "spread": "HB"
+            },
+            {
+                "id": 1,
+                "role": "Fast Attacker",
+                "ability": "Chlorophyll",
+                "item": "Life Orb",
+                "moves": ["Leaf Blade", "Knock Off", "Swords Dance", "Synthesis, Quick Attack, Substitute, Double-Edge"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Glaceon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Snow Cloak",
+                "item": "Assault Vest",
+                "moves": ["Ice Beam", "Freeze-Dry", "Mud Shot", "Ice Shard"],
+                "spread": "HC"
+            },
+            {
+                "id": 1,
+                "role": "Glass Cannon",
+                "ability": "Snow Cloak",
+                "item": "Focus Sash",
+                "moves": ["Freeze-Dry", "Ice Shard", "Mirror Coat", "Yawn"],
+                "spread": "CS"
+            },
+            {
+                "id": 2,
+                "role": "Wallbreaker",
+                "ability": "Snow Cloak",
+                "item": "Choice Specs",
+                "moves": ["Ice Beam", "Freeze-Dry", "Shadow Ball", "Mud Shot"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Porygon-Z",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Adaptability, Download",
+                "item": "Choice Specs",
+                "moves": ["Tri Attack", "Ice Beam", "Thunderbolt", "Trick"],
+                "spread": "CS"
+            },
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Adaptability, Download",
+                "item": "Choice Scarf",
+                "moves": ["Tri Attack", "Ice Beam", "Thunderbolt", "Trick"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Uxie",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Support",
+                "ability": "Levitate",
+                "item": "Leftovers",
+                "moves": ["Psychic Noise", "Knock Off", "Yawn", "Stealth Rock"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Excadrill",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Mold Breaker",
+                "item": "Leftovers, Air Balloon",
+                "moves": ["Earthquake", "Iron Head", "Rapid Spin", "Swords Dance"],
+                "spread": "AS"
+            },
+            {
+                "id": 0,
+                "role": "Sand Attacker",
+                "ability": "Sand Rush",
+                "item": "Leftovers, Air Balloon",
+                "moves": ["Earthquake", "Iron Head", "Rapid Spin", "Swords Dance"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Whimsicott",
+        "sets": [
+            {
+                "id": 0,
+                "role": "SubSeed",
+                "ability": "Prankster",
+                "item": "Leftovers",
+                "moves": ["Moonblast", "Leech Seed", "Substitute", "Encore, Protect"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Lilligant",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Own Tempo",
+                "item": "Leftovers",
+                "moves": ["Giga Drain", "Charm", "Quiver Dance", "Sleep Powder"],
+                "spread": "HB"
+            },
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Own Tempo",
+                "item": "Life Orb",
+                "moves": ["Petal Dance", "Alluring Voice", "Quiver Dance", "Sleep Powder"],
+                "spread": "SC"
+            }
+        ]
+    },
+    {
+        "species": "Braviary",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Defiant",
+                "item": "Leftovers",
+                "moves": ["Brave Bird", "Double-Edge, Close Combat", "Bulk Up", "Roost"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Tornadus-Therian",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Regenerator",
+                "item": "Choice Specs",
+                "moves": ["Bleakwind Storm", "Heat Wave", "Focus Blast, Grass Knot", "U-Turn"],
+                "spread": "CS"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Attacker",
+                "ability": "Regenerator",
+                "item": "Assault Vest",
+                "moves": ["Bleakwind Storm", "Heat Wave", "Knock Off", "U-Turn"],
+                "spread": "HC"
+            },
+            {
+                "id": 2,
+                "role": "Setup Sweeper",
+                "ability": "Regenerator",
+                "item": "Life Orb",
+                "moves": ["Bleakwind Storm", "Heat Wave", "Focus Blast, Grass Knot", "Nasty Plot"],
+                "spread": "SC"
+            }
+        ]
+    },
+    {
+        "species": "Sylveon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Pixilate",
+                "item": "Assault Vest",
+                "moves": ["Hyper Voice", "Shadow Ball", "Psyshock", "Quick Attack"],
+                "spread": "HC"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Setup",
+                "ability": "Pixilate",
+                "item": "Leftovers",
+                "moves": ["Hyper Voice", "Calm Mind", "Wish", "Protect"],
+                "spread": "HB"
+            },
+            {
+                "id": 2,
+                "role": "Wall",
+                "ability": "Pixilate",
+                "item": "Leftovers",
+                "moves": ["Hyper Voice", "Yawn", "Wish", "Protect"],
+                "spread": "HB"
+            },
+            {
+                "id": 3,
+                "role": "Wallbreaker",
+                "ability": "Pixilate",
+                "item": "Choice Specs",
+                "moves": ["Hyper Voice", "Shadow Ball", "Psyshock", "Draining Kiss"],
+                "spread": "HC"
+            }
+        ]
+    },
+    {
+        "species": "Primarina",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Liquid Voice",
+                "item": "Leftovers",
+                "moves": ["Moonblast", "Psychic Noise", "Substitute", "Calm Mind"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Alcremie",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Aroma Veil",
+                "item": "Leftovers",
+                "moves": ["(4,1) Alluring Voice, Dazzling Gleam", "Acid Armor", "Calm Mind", "Recover"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Ursaluna",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Guts",
+                "item": "Flame Orb",
+                "moves": ["Facade", "Headlong Rush", "Crunch, Trailblaze", "Swords Dance"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Ursaluna-Bloodmoon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Mind's Eye",
+                "item": "Assault Vest",
+                "moves": ["Blood Moon", "Hyper Voice", "Earth Power", "Vacuum Wave"],
+                "spread": "HC"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Setup",
+                "ability": "Mind's Eye",
+                "item": "Leftovers",
+                "moves": ["Blood Moon", "Earth Power", "Calm Mind", "Moonlight"],
+                "spread": "HB"
+            },
+            {
+                "id": 2,
+                "role": "Wall",
+                "ability": "Mind's Eye",
+                "item": "Leftovers",
+                "moves": ["Blood Moon", "Earth Power", "Yawn", "Moonlight"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Basculegion",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Adaptability",
+                "item": "Assault Vest",
+                "moves": ["Wave Crash", "Flip Turn", "Aqua Jet", "Phantom Force"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Skeledirge",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "Unaware",
+                "item": "Leftovers",
+                "moves": ["Torch Song", "Shadow Ball", "Slack Off", "Will-O-Wisp, Yawn"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Dondozo",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Unaware",
+                "item": "Leftovers",
+                "moves": ["Wave Crash", "Curse", "Rest", "Sleep Talk"],
+                "spread": "HD"
+            },
+            {
+                "id": 1,
+                "role": "Wall",
+                "ability": "Unaware",
+                "item": "Leftovers, Chesto Berry",
+                "moves": ["Wave Crash", "Curse, Earthquake", "Yawn", "Rest"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Clodsire",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wall",
+                "ability": "Unaware, Water Absorb",
+                "item": "Leftovers",
+                "moves": ["Earthquake", "(2,1) Toxic, Yawn", "Recover", "(2,1) Stealth Rock, Spikes"],
+                "spread": "HD"
+            }
+        ]
+    },
+    {
+        "species": "Archaludon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Stamina",
+                "item": "Assault Vest",
+                "moves": ["Draco Meteor", "Flash Cannon", "Body Press", "Thunderbolt, Dragon Tail, Mirror Coat"],
+                "spread": "HC"
+            },
+            {
+                "id": 1,
+                "role": "Support",
+                "ability": "Stamina",
+                "item": "Leftovers",
+                "moves": ["Draco Meteor", "Flash Cannon", "Roar", "Stealth Rock"],
+                "spread": "HB"
+            },
+            {
+                "id": 2,
+                "role": "Wallbreaker",
+                "ability": "Stamina, Sturdy",
+                "item": "Choice Specs",
+                "moves": ["Draco Meteor", "Flash Cannon", "Thunderbolt", "Dark Pulse"],
+                "spread": "CS"
+            },
+            {
+                "id": 3,
+                "role": "Offensive",
+                "ability": "Stamina, Sturdy",
+                "item": "Power Herb",
+                "moves": ["(2, 1) Draco Meteor, Dragon Pulse", "Flash Cannon", "Electro Shot", "Body Press"],
+                "spread": "SC"
+            },
+            {
+                "id": 4,
+                "role": "Rain Sweeper",
+                "ability": "Stamina",
+                "item": "Assault Vest",
+                "moves": ["Draco Meteor", "Flash Cannon", "Electro Shot", "Body Press"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "placeholder",
+        "sets": [
+            {
+                "id": 0,
+                "role": "",
+                "ability": "",
+                "item": "",
+                "moves": ["", "", "", ""],
+                "spread": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "species": "placeholder",
+        "sets": [
+            {
+                "id": 0,
+                "role": "",
+                "ability": "",
+                "item": "",
+                "moves": ["", "", "", ""],
+                "spread": ""
+            }
+        ]
+    },
+    {
+        "species": "Venusaur",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Sun Sweeper",
+                "ability": "Chlorophyll",
+                "item": "Life Orb",
+                "moves": ["Giga Drain, Solar Beam", "Sludge Bomb", "Weather Ball, Earth Power", "Protect"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Charizard",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Sun Wallbreaker",
+                "ability": "Solar Power",
+                "item": "Choice Specs, Choice Scarf",
+                "moves": ["Heat Wave", "Weather Ball", "Air Slash", "Scorching Sands"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Blastoise",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Setup Sweeper",
+                "ability": "Torrent",
+                "item": "White Herb",
+                "moves": ["Hydro Pump, Surf", "Ice Beam", "Shell Smash", "Protect"],
+                "spread": "CS"
+            },
+            {
+                "id": 1,
+                "role": "Support",
+                "ability": "Torrent",
+                "item": "Sitrus Berry",
+                "moves": ["Muddy Water", "Icy Wind", "Fake Out", "Yawn"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Pikachu",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Lightning Rod",
+                "item": "Light Ball",
+                "moves": ["Volt Tackle", "Knock Off", "Play Rough", "Fake Out"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Eevee",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "Adaptability",
+                "item": "Eviolite",
+                "moves": ["Double-Edge", "Quick Attack", "Yawn", "Protect"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Vaporeon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "Water Absorb",
+                "item": "Leftovers, Sitrus Berry, Rocky Helmet",
+                "moves": ["Muddy Water", "Icy Wind", "Yawn", "Protect"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Jolteon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Volt Absorb",
+                "item": "Choice Specs",
+                "moves": ["Thunderbolt", "Volt Switch", "Alluring Voice", "Shadow Ball"],
+                "spread": "SC"
+            },
+            {
+                "id": 1,
+                "role": "Fast Support",
+                "ability": "Volt Absorb",
+                "item": "Sitrus Berry, Focus Sash",
+                "moves": ["Thunderbolt", "Electroweb", "Charm, Fake Tears, Yawn", "Protect"],
+                "spread": "SC"
+            }
+        ]
+    },
+    {
+        "species": "Flareon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Attacker",
+                "ability": "Guts",
+                "item": "Toxic Orb",
+                "moves": ["Flare Blitz", "Facade", "Quick Attack", "Protect"],
+                "spread": "AS"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Attacker",
+                "ability": "Flash Fire",
+                "item": "Assault Vest",
+                "moves": ["Flare Blitz", "Double-Edge", "Trailblaze", "Quick attack"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Snorlax",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Setup",
+                "ability": "Gluttony",
+                "item": "Custap Berry",
+                "moves": ["Body Slam", "Crunch", "Belly Drum", "Protect"],
+                "spread": "HA"
+            },
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Thick Fat",
+                "item": "Assault Vest",
+                "moves": ["Double-Edge", "Earthquake", "Crunch", "Heavy Slam"],
+                "spread": "HA"
+            }
+        ]
+    },
+    {
+        "species": "Dragonite",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Multiscale",
+                "item": "Choice Band",
+                "moves": ["Outrage", "Earthquake", "Extreme Speed", "Low Kick"],
+                "spread": "AS"
+            },
+            {
+                "id": 2,
+                "role": "Bulky Attacker",
+                "ability": "Multiscale",
+                "item": "Loaded Dice",
+                "moves": ["Scale Shot", "Extreme Speed", "Encore", "Protect"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Espeon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Wallbreaker",
+                "ability": "Magic Bounce",
+                "item": "(1,1) Choice Specs, Life Orb",
+                "moves": ["Psyshock, Psychic", "Alluring Voice", "Shadow Ball", "Trick"],
+                "spread": "CS"
+            },
+            {
+                "id": 1,
+                "role": "Fast Attacker",
+                "ability": "Magic Bounce",
+                "item": "Focus Sash",
+                "moves": ["Psyshock, Psychic", "Alluring Voice", "Shadow Ball", "Protect"],
+                "spread": "SC"
+            },
+            {
+                "id": 2,
+                "role": "Dual Screens",
+                "ability": "Magic Bounce",
+                "item": "Light Clay",
+                "moves": ["Psychic, Psyshock", "(2,1,1) Yawn, Alluring Voice, Roar", "Reflect", "Light Screen"],
+                "spread": "HS"
+            }
+        ]
+    },
+    {
+        "species": "Umbreon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Support",
+                "ability": "(3,1) Inner Focus, Synchronize",
+                "item": "Leftovers, Sitrus Berry",
+                "moves": ["Foul Play", "Snarl", "Yawn", "(2,1,1) Moonlight, Protect, Taunt"],
+                "spread": "HB"
+            }
+        ]
+    },
+    {
+        "species": "Leafeon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Fast Attacker",
+                "ability": "Chlorophyll",
+                "item": "Life Orb",
+                "moves": ["Leaf Blade", "Knock Off", "Double-Edge, Quick Attack", "Protect"],
+                "spread": "AS"
+            }
+        ]
+    },
+    {
+        "species": "Glaceon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Snow Cloak",
+                "item": "Assault Vest",
+                "moves": ["Freeze-Dry", "Ice Beam", "Mud Shot", "Ice Shard"],
+                "spread": "HC"
+            },
+            {
+                "id": 1,
+                "role": "Glass Cannon",
+                "ability": "Snow Cloak",
+                "item": "Focus Sash",
+                "moves": ["Freeze-Dry", "Ice Shard", "Mirror Coat", "Yawn"],
+                "spread": "CS"
+            }
+        ]
+    },
+    {
+        "species": "Sylveon",
+        "sets": [
+            {
+                "id": 0,
+                "role": "Bulky Attacker",
+                "ability": "Pixilate",
+                "item": "Fairy Feather",
+                "moves": ["Hyper Voice", "Psychic", "Quick Attack", "Protect"],
+                "spread": "HC"
+            },
+            {
+                "id": 1,
+                "role": "Bulky Setup",
+                "ability": "Pixilate",
+                "item": "Leftovers",
+                "moves": ["Hyper Voice", "Substitute", "Calm Mind", "Protect"],
+                "spread": "HB"
+            },
+            {
+                "id": 2,
+                "role": "Support",
+                "ability": "Pixilate",
+                "item": "Leftovers",
+                "moves": ["Hyper Voice", "Quick Attack", "Yawn", "Protect"],
+                "spread": "HB"
+            },
+            {
+                "id": 3,
+                "role": "Wallbreaker",
+                "ability": "Pixilate",
+                "item": "Choice Specs",
+                "moves": ["Hyper Voice", "Moonblast, Hyper Beam", "Psyshock", "Shadow Ball"],
+                "spread": "HC"
+            }
+        ]
+    }
+]
