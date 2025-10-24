@@ -8,7 +8,7 @@ const {Dex} = PS;
 
 // Load the JSON file. Using require will cache and parse it as an object.
 const sets = require(path.join(__dirname, 'sets.json'));
-const sets_easy = require(path.join(__dirname, 'sets_easy.json'));
+//const sets_easy = require(path.join(__dirname, 'sets_easy.json'));
 const trainers = require(path.join(__dirname, 'trainers.json'));
 
 
